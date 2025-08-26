@@ -41,3 +41,6 @@ The project also demonstrates
 A good second project to look at after this is "picture", which adds a class
 to those ones in this project. That class (named "Picture") uses the shapes
 to draw a picture. It can be used to experiment with coding.
+
+Aimal's Note : Im currently learning the very basics, shapes and classes! 
+Im still terrified of what's to come during this semester but I feel thrilled having the opportunity to begin this new journey!
