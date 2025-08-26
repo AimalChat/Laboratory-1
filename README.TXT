@@ -43,14 +43,62 @@ to those ones in this project. That class (named "Picture") uses the shapes
 to draw a picture. It can be used to experiment with coding.
 
 Aimal's Note : Im currently learning the very basics, shapes and classes! 
-Im still terrified of what's to come during this semester but I feel thrilled having the opportunity to begin this new journey!
+Im still terrified of what's to come during this semester but I feel thrilled
+having the opportunity to begin this new journey!
 
 Lab report (part a = question, part b = answer to said question)
 
-1a.Which files from BlueJ’s local project are uploaded to the repository, and which are not? Why do you think this is? 
+1a.Which files from BlueJ’s local project are uploaded to the repository, and 
+which are not? Why do you think this is? 
 
-1b.The files uploaded on the repository include : Canvas.java, Circle.java, Person.java, README.TXT, Square.java, Triangle.java, package.java. 
-I believe that these files in particular stayed due to the .java extension they have, making them the only ones that can be modified in the IDE.
-Since BlueJ's language is Java, it would make sense that the only files that are inserted in the IDE are the ones with the .java extension.
-The other files weren't inserted due to their different nature (.class and .ctxt) However, I think that the one exeption, the README.TXT file, 
-is in the IDE because it is a file that is supported by the system and thus generatedby said system. Also, every program comes along with a README.TXT file if so desired.
+1b.The files uploaded on the repository include : Canvas.java, Circle.java, 
+Person.java, README.TXT, Square.java, Triangle.java, package.java. 
+I believe that these files in particular stayed due to the .java extension 
+they have, making them the only ones that can be modified in the IDE.
+Since BlueJ's language is Java, it would make sense that the only files 
+that are inserted in the IDE are the ones with the .java extension.
+The other files weren't inserted due to their different nature (.class and .ctxt)
+However, I think that the one exeption, the README.TXT file, 
+is in the IDE because it is a file that is supported by the system and thus generated 
+by said system. Also, every program comes along with a README.TXT file if so desired.
+
+Lab : Figures project (chapter 1) (part a = question, part b = answer to said question)
+
+1a. What happens if you call moveDown twice? Or three times? What happens if you call 
+makeInvisible twice?
+
+1b. Seemingly nothing happens when you moveDown twice and when you makeinvisible twice.
+(I think it’s because the circle and square are already invisible, thus any movement
+or an already attained property will not change anything whatsoever.) 
+
+2a. Try invoking the moveVertical, slowMoveVertical, and changeSize methods before 
+you read on. Find out how you can use moveHorizontal to move the circle 70 pixels 
+to the left.
+
+2b. Firstly, you right click on the Object : circle1 and selecting the void 
+moveHorizontal(int distance) By now, a small screen will pop up titled method
+call. After typing in the desired variable in the box where int distance 
+remains as a placeholder (i.e : Circle1.moveHorizontal(70)), you confirm
+the command and the circle will do as told, moving 70 pixels to the right?
+Oh. Since it moves on the x axis, you need to treat it as you would on a Cartesian
+plane. So, 70 will move it to the right whilst –70 will move it to the left.
+
+3a. Invoke the changeColor method on one of your circle objects and enter the 
+string “red”. This should change the color of the circle. Try other colors.
+
+3b. To change the color of our circle, you need to not only write red, but “red”
+with the quotation marks! Be careful or else nothing will change since the 
+variable red does not exist to the computer (Program).
+
+4a. This is a very simple example, and not many colors are supported. See what 
+happens when you specify a color that is not known.
+
+4b. When I put in the command: “pink” and “brown” into the method calling pop up
+,the circle became black as if it were the default.
+
+5a. Invoke the changeColor method and write the color into the parameter field 
+without the quotes. What happens? 
+
+5b. I found that, without the quotation marks, the command will not be recognized
+and specify that the symbol inputted in the parameter field (ITC, variable red) 
+cannot be found.      
