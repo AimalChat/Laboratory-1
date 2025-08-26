@@ -44,3 +44,13 @@ to draw a picture. It can be used to experiment with coding.
 
 Aimal's Note : Im currently learning the very basics, shapes and classes! 
 Im still terrified of what's to come during this semester but I feel thrilled having the opportunity to begin this new journey!
+
+Lab report (part a = question, part b = answer to said question)
+
+1a.Which files from BlueJ’s local project are uploaded to the repository, and which are not? Why do you think this is? 
+
+1b.The files uploaded on the repository include : Canvas.java, Circle.java, Person.java, README.TXT, Square.java, Triangle.java, package.java. 
+I believe that these files in particular stayed due to the .java extension they have, making them the only ones that can be modified in the IDE.
+Since BlueJ's language is Java, it would make sense that the only files that are inserted in the IDE are the ones with the .java extension.
+The other files weren't inserted due to their different nature (.class and .ctxt) However, I think that the one exeption, the README.TXT file, 
+is in the IDE because it is a file that is supported by the system and thus generatedby said system. Also, every program comes along with a README.TXT file if so desired.
