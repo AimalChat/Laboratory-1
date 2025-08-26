@@ -101,4 +101,22 @@ without the quotes. What happens?
 
 5b. I found that, without the quotation marks, the command will not be recognized
 and specify that the symbol inputted in the parameter field (ITC, variable red) 
-cannot be found.      
+cannot be found.
+
+6a. Make sure you have several objects on the object bench, and then inspect each 
+of them in turn. Try changing the state of an object (for example, by calling the
+moveLeft method) while the object inspector is open. You should see the values in 
+the object inspector change.
+
+6b. Something I noticed : When using the slowmovehorizontal or vertical, the private
+int xPosition remains static even if we see the transition bewteen positions. It only
+counts the amount of pixels moved after the fact.
+
+7a.Figure 1.8 shows two different images. Choose one of these images and recreate it 
+using the shapes from the figures project. While you are doing this, write down 
+what you have to do to achieve this. Could it be done in different ways?
+
+7b. (I chose the house.)
+
+
+      
