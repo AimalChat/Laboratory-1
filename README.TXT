@@ -122,6 +122,9 @@ squares,1 circle and 1 triangle.) After dropping the necessary shapes in my canv
 I began to change the colours of each shape. I then started guestimating what
 dimensions the shapes had on the picture. After much trial and error and moving each
 shape in small increments, I was finally able to finish replacating the image, somewhat.
+I do believe that things might have been easier with shortcuts such as Ctrl+Z, to remedy
+small mistakes rapidly, maybe even having the dimensions of the orignal image would have
+greatly helped. 
 
 
       
