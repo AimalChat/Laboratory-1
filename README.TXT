@@ -116,7 +116,12 @@ counts the amount of pixels moved after the fact.
 using the shapes from the figures project. While you are doing this, write down 
 what you have to do to achieve this. Could it be done in different ways?
 
-7b. (I chose the house.)
+7b. (I chose the house.) When first starting out, I observed the photo and started
+placing in all the shapes I would need to make the image a reality. (ITC, it was 2
+squares,1 circle and 1 triangle.) After dropping the necessary shapes in my canvas,
+I began to change the colours of each shape. I then started guestimating what
+dimensions the shapes had on the picture. After much trial and error and moving each
+shape in small increments, I was finally able to finish replacating the image, somewhat.
 
 
       
