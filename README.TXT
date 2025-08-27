@@ -124,7 +124,8 @@ dimensions the shapes had on the picture. After much trial and error and moving 
 shape in small increments, I was finally able to finish replacating the image, somewhat.
 I do believe that things might have been easier with shortcuts such as Ctrl+Z, to remedy
 small mistakes rapidly, maybe even having the dimensions of the orignal image would have
-greatly helped. 
+greatly helped. Im positive there are many different and better ways to accomplish
+this task, It was quite an inefficient process having to guess the size of each size.
 
 
       
